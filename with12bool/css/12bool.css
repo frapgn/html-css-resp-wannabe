@@ -24,6 +24,7 @@
 
 [class*="col-"] {
     float: left;
+    padding: 20px;
 }
 
 /* COLONNE XS */
