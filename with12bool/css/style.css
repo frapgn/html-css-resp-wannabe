@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}
+
+#lezioni,
+#steps {
+    margin-bottom: 100px;
+}
