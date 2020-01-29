@@ -6,7 +6,21 @@ img {
     height: 200px;
 }
 
+.row {
+    width: 90%;
+}
+
+@media all and (min-width: 992px) {
+    .row {
+        width: 80%;
+    }
+}
+
 #lezioni,
 #steps {
     margin-bottom: 100px;
+}
+
+#steps {
+    background-color: #f9f9f9;
 }
